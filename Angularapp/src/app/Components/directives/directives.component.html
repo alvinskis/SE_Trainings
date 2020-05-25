@@ -1,0 +1,16 @@
+<h4>NgClass:</h4>
+<button type="button" (click)="changeColor()">Change Color</button>
+<button type="button" (click)="changeFont()">Change Font</button>
+<h5
+  [ngClass]="{
+    color1: colorToggle,
+    color2: !colorToggle,
+    font1: fontToggle,
+    font2: !fontToggle
+  }"
+>
+  Sample Text
+</h5>
+<br />
+<h4>NgStyle:</h4>
+<h5 [ngStyle]="textStyle">Sample Text</h5>

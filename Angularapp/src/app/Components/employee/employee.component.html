@@ -1,0 +1,19 @@
+<h4>Showing Employee with isActive = false:</h4>
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Employee Id</th>
+      <th>Employee Name</th>
+      <th>Employee Location</th>
+      <th>isActive</th>
+    </tr>
+  </thead>
+  <tbody *ngFor="let employee of emp">
+    <tr *ngIf="employee.isActive === false">
+      <td>{{ employee.id }}</td>
+      <td>{{ employee.name }}</td>
+      <td>{{ employee.location }}</td>
+      <td>{{ employee.isActive }}</td>
+    </tr>
+  </tbody>
+</table>

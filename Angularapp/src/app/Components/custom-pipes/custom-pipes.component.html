@@ -1,0 +1,10 @@
+<h4>Counting alphabets in a sentence:</h4>
+<textarea [(ngModel)]="message">{{message}}</textarea>
+<p>Number of alphabets: {{message | alphabetCounter}}</p>
+
+<h4>Calculate exponential of a number:</h4>
+<label>Enter Number:</label>
+<input type="number" [(ngModel)]="numberValue"><br>
+<label>Enter Power Value:</label>
+<input type="number" [(ngModel)]="powerValue">
+<p>Result: {{result | exponentialCalculator: numberValue : powerValue}}</p>
