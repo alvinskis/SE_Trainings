@@ -1,0 +1,15 @@
+<h3>Employee's Salary</h3>
+<div class="list-group">
+  <button
+    (click)="onSelect(employee)"
+    class="list-group-item"
+    *ngFor="let employee of employees"
+  >
+    {{ employee.firstName }}
+  </button>
+</div>
+<div>
+  <button class="btn btn-primary" routerLink="/">Back</button>
+</div>
+
+<p>Employee's {{ employeeName }} salary is {{ employeeSalary }}</p>

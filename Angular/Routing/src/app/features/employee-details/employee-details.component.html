@@ -1,0 +1,25 @@
+<table class="table">
+  <thead class="table-dark">
+    <tr>
+      <th>Id</th>
+      <th>First Name</th>
+      <th>Last Name</th>
+      <th>Email</th>
+      <th>Department</th>
+      <th>Hire Date</th>
+      <th>Salary</th>
+    </tr>
+  </thead>
+  <tbody>
+    <td>{{ employeeDetails.id }}</td>
+    <td>{{ employeeDetails.firstName }}</td>
+    <td>{{ employeeDetails.lastName }}</td>
+    <td>{{ employeeDetails.email }}</td>
+    <td>{{ employeeDetails.department }}</td>
+    <td>{{ employeeDetails.hireDate }}</td>
+    <td>{{ employeeDetails.salary | currency: "EUR" }}</td>
+  </tbody>
+</table>
+<div>
+  <button class="btn btn-primary" routerLink="/employees">Back</button>
+</div>
