@@ -1,7 +1,6 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { SoftwareEngineeringLevelsComponent } from './software-engineering-levels.component';
-import { CEOComponent } from './ceo/ceo.component';
 
 
 const routes: Routes = [

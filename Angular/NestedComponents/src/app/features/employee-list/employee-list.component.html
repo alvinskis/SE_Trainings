@@ -1,0 +1,18 @@
+<br />
+<h3>Employee List:</h3>
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Id</th>
+      <th scope="col">Employee Name</th>
+      <th scope="col">Location</th>
+    </tr>
+  </thead>
+  <tbody *ngFor="let employee of employeeList">
+    <tr>
+      <th>{{ employee.employeeId }}</th>
+      <td>{{ employee.employeeName }}</td>
+      <td>{{ employee.location }}</td>
+    </tr>
+  </tbody>
+</table>

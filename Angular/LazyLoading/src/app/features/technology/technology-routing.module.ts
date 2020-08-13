@@ -1,7 +1,6 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { TechnologyComponent } from './technology.component';
-import { CEOComponent } from './software-engineering-levels/ceo/ceo.component';
 
 
 const routes: Routes = [
