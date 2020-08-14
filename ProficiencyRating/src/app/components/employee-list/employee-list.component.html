@@ -1,0 +1,26 @@
+<h3>Employee List:</h3>
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Employee Id</th>
+      <th scope="col">Employee Name</th>
+      <th scope="col">Project Id</th>
+      <th scope="col">Angular Proficiency</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let employee of employeeData">
+      <td>{{ employee.employeeId }}</td>
+      <td>{{ employee.employeeName }}</td>
+      <td>{{ employee.projectId }}</td>
+      <td>
+        <button
+          class="btn btn-link"
+          (click)="getProficiencyRating(employee.angularProficiency)"
+        >
+          {{ employee.angularProficiency }}
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>

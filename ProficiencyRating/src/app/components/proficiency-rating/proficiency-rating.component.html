@@ -1,0 +1,5 @@
+<h3>Proficiency Rating: {{ proficiencyRating }}</h3>
+<br />
+<app-employee-list
+  (proficiencyRating)="proficiencyRating = $event"
+></app-employee-list>
