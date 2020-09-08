@@ -2,4 +2,8 @@ export class Employee {
     id: number;
     firstName: string;
     lastName: string;
+    salary: {
+        year: number;
+        salary: number;
+    }[];
 }

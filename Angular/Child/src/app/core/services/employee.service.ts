@@ -7,21 +7,33 @@ import { Employee } from '../models/employee.model';
 export class EmployeeService {
   public employee: Employee[];
 
+  public employeeSalary = [{
+    year: 2010,
+    salary: 1500
+  },
+  {
+    year: 2020,
+    salary: 3000
+  }];
+
   constructor() {
     this.employee = [{
       id: 1,
       firstName: 'James',
-      lastName: 'Smith'
+      lastName: 'Smith',
+      salary: this.employeeSalary
     },
     {
       id: 2,
       firstName: 'John',
-      lastName: 'Johnson'
+      lastName: 'Johnson',
+      salary: this.employeeSalary
     },
     {
       id: 3,
       firstName: 'Robert',
-      lastName: 'Williams'
+      lastName: 'Williams',
+      salary: this.employeeSalary
     }];
   }
 

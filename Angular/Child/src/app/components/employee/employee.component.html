@@ -1,0 +1,7 @@
+<ng-container *ngFor="let employee of employees">
+  <app-employee-list [employee]="employee">
+    <ng-container *ngFor="let salary of employee.salary">
+      <app-employee-salary [salary]="salary"></app-employee-salary>
+    </ng-container>
+  </app-employee-list>
+</ng-container>

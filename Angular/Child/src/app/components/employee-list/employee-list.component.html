@@ -1,14 +1,6 @@
-<table class="table">
-    <thead class="table-dark">
-      <tr>
-        <th>Id</th>
-        <th>First Name</th>
-        <th>Last Name</th>
-      </tr>
-    </thead>
-    <tbody *ngFor="let employee of employees">
-      <td>{{ employee.id }}</td>
-      <td>{{ employee.firstName }}</td>
-      <td>{{ employee.lastName }}</td>
-    </tbody>
-  </table>
+<p><b>Id:</b> {{ employee.id }}</p>
+<p><b>Name:</b> {{ employee.firstName }}</p>
+<p><b>Last Name:</b> {{ employee.lastName }}</p>
+<ng-content></ng-content>
+
+<hr />
