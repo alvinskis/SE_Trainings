@@ -1,0 +1,188 @@
+<form [formGroup]="employeeForm" (ngSubmit)="OnSubmit()">
+  <div class="form-group">
+    <label for="userNameId">User Name</label>
+    <input
+      class="form-control"
+      type="text"
+      placeholder="User Name (required)"
+      id="userNameId"
+      formControlName="userName"
+      [ngClass]="{
+        'is-invalid':
+          (employeeForm.get('userName').touched ||
+            employeeForm.get('userName').dirty) &&
+          !employeeForm.get('userName').valid
+      }"
+    />
+    <span class="invalid-feedback">
+      <span *ngIf="employeeForm.get('userName').errors?.capitalLetters">
+        Please enter user name in capitals.
+      </span>
+      <span *ngIf="employeeForm.get('userName').errors?.required">
+        This field is required.
+      </span>
+    </span>
+  </div>
+  <div class="form-group">
+    <label for="emailId">Email</label>
+    <input
+      class="form-control"
+      type="email"
+      placeholder="Email (required)"
+      id="emailId"
+      formControlName="email"
+      [ngClass]="{
+        'is-invalid':
+          (employeeForm.get('email').touched ||
+            employeeForm.get('email').dirty) &&
+          !employeeForm.get('email').valid
+      }"
+    />
+    <span class="invalid-feedback">
+      <span *ngIf="employeeForm.get('email').errors?.email">
+        Please enter a valid email address.
+      </span>
+      <span *ngIf="employeeForm.get('email').errors?.required">
+        This field is required.
+      </span>
+    </span>
+  </div>
+  <div class="form-check">
+    <label class="form-check-label" id="addExperienceId">
+      <input
+        class="form-check-input"
+        id="addExperienceId"
+        type="checkbox"
+        formControlName="addExperience"
+      />Enter Employee Experience
+    </label>
+  </div>
+  <br />
+  <div *ngIf="employeeForm.get('addExperience').value">
+    <div
+      formArrayName="employeeExperience"
+      *ngFor="
+        let employeeExperience of employeeExperience.controls;
+        let i = index
+      "
+    >
+      <div [formGroupName]="i">
+        <div class="form-row">
+          <div class="form-group col-md-6">
+            <label attr.for="{{ 'companyNameId' + i }}">Company Name</label>
+            <input
+              class="form-control"
+              type="text"
+              placeholder="Company Name"
+              id="{{ 'companyNameId' + i }}"
+              formControlName="companyName"
+              [ngClass]="{
+                'is-invalid':
+                  (employeeExperience.controls.companyName.touched ||
+                    employeeExperience.controls.companyName.dirty) &&
+                  !employeeExperience.controls.companyName.valid
+              }"
+            />
+            <span class="invalid-feedback">
+              <span
+                *ngIf="
+                  employeeExperience.controls.companyName.errors?.isCompanyName
+                "
+                >Company name not found.</span
+              >
+              <span
+                *ngIf="employeeExperience.controls.companyName.errors?.required"
+              >
+                This field is required.
+              </span>
+            </span>
+          </div>
+          <div class="form-group col-md-6">
+            <label attr.for="{{ 'jobTitleId' + i }}">Job Title</label>
+            <select
+              class="form-control"
+              type="text"
+              placeholder="Job Title"
+              id="{{ 'jobTitleId' + i }}"
+              formControlName="jobTitle"
+            >
+              <option value="" disabled>Select the role.</option>
+              <option *ngFor="let jobRole of jobRoles">{{ jobRole }}</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group col-md-6">
+            <label attr.for="{{ 'totalExperienceId' + i }}"
+              >Total Experience</label
+            >
+            <input
+              class="form-control"
+              type="text"
+              placeholder="Total Experience"
+              id="{{ 'totalExperienceId' + i }}"
+              formControlName="totalExperience"
+            />
+          </div>
+          <div class="form-group col-md-6">
+            <label attr.for="{{ 'skillsId' + i }}">Skills</label>
+            <input
+              class="form-control"
+              type="text"
+              placeholder="Skills"
+              id="{{ 'skillsId' + i }}"
+              formControlName="skills"
+            />
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group col-md-6">
+            <label attr.for="{{ 'fromDateId' + i }}">From Date</label>
+            <input
+              class="form-control"
+              type="datetime-local"
+              placeholder="From Date"
+              id="{{ 'fromDateId' + i }}"
+              formControlName="fromDate"
+            />
+          </div>
+          <div class="form-group col-md-6">
+            <label attr.for="{{ 'toDateId' + i }}">To Date</label>
+            <input
+              class="form-control"
+              type="datetime-local"
+              placeholder="To Date"
+              id="{{ 'toDateId' + i }}"
+              formControlName="toDate"
+            />
+          </div>
+        </div>
+      </div>
+      <hr style="border: 1px solid" />
+    </div>
+  </div>
+  <br />
+  <button
+    class="btn btn-primary"
+    type="submit"
+    [title]="
+      employeeForm.valid
+        ? 'Save your entered data'
+        : 'Disabled until the form data is valid'
+    "
+    [disabled]="!employeeForm.valid"
+  >
+    Submit
+  </button>
+  <button
+    class="btn btn-primary"
+    type="button"
+    (click)="addEmployeeExperience()"
+    [disabled]="
+      !employeeExperience.valid || !employeeForm.get('addExperience').value
+    "
+    style="position: relative; right: -10px"
+  >
+    Add Employee Experience
+  </button>
+</form>
