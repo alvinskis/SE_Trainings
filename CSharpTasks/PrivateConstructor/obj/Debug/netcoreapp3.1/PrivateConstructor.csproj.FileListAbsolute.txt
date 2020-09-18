@@ -1,0 +1,13 @@
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\PrivateConstructor\bin\Debug\netcoreapp3.1\PrivateConstructor.exe
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\PrivateConstructor\bin\Debug\netcoreapp3.1\PrivateConstructor.deps.json
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\PrivateConstructor\bin\Debug\netcoreapp3.1\PrivateConstructor.runtimeconfig.json
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\PrivateConstructor\bin\Debug\netcoreapp3.1\PrivateConstructor.runtimeconfig.dev.json
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\PrivateConstructor\bin\Debug\netcoreapp3.1\PrivateConstructor.dll
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\PrivateConstructor\bin\Debug\netcoreapp3.1\PrivateConstructor.pdb
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\PrivateConstructor\obj\Debug\netcoreapp3.1\PrivateConstructor.csprojAssemblyReference.cache
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\PrivateConstructor\obj\Debug\netcoreapp3.1\PrivateConstructor.AssemblyInfoInputs.cache
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\PrivateConstructor\obj\Debug\netcoreapp3.1\PrivateConstructor.AssemblyInfo.cs
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\PrivateConstructor\obj\Debug\netcoreapp3.1\PrivateConstructor.csproj.CoreCompileInputs.cache
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\PrivateConstructor\obj\Debug\netcoreapp3.1\PrivateConstructor.dll
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\PrivateConstructor\obj\Debug\netcoreapp3.1\PrivateConstructor.pdb
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\PrivateConstructor\obj\Debug\netcoreapp3.1\PrivateConstructor.genruntimeconfig.cache

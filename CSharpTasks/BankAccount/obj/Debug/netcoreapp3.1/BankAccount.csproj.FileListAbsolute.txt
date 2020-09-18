@@ -1,0 +1,13 @@
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.exe
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.deps.json
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.json
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.dev.json
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csprojAssemblyReference.cache
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.genruntimeconfig.cache
