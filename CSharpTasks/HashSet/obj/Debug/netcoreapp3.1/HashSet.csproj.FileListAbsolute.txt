@@ -1,0 +1,13 @@
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\HashSet\bin\Debug\netcoreapp3.1\HashSet.exe
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\HashSet\bin\Debug\netcoreapp3.1\HashSet.deps.json
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\HashSet\bin\Debug\netcoreapp3.1\HashSet.runtimeconfig.json
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\HashSet\bin\Debug\netcoreapp3.1\HashSet.runtimeconfig.dev.json
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\HashSet\bin\Debug\netcoreapp3.1\HashSet.dll
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\HashSet\bin\Debug\netcoreapp3.1\HashSet.pdb
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\HashSet\obj\Debug\netcoreapp3.1\HashSet.csprojAssemblyReference.cache
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\HashSet\obj\Debug\netcoreapp3.1\HashSet.AssemblyInfoInputs.cache
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\HashSet\obj\Debug\netcoreapp3.1\HashSet.AssemblyInfo.cs
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\HashSet\obj\Debug\netcoreapp3.1\HashSet.csproj.CoreCompileInputs.cache
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\HashSet\obj\Debug\netcoreapp3.1\HashSet.dll
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\HashSet\obj\Debug\netcoreapp3.1\HashSet.pdb
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\HashSet\obj\Debug\netcoreapp3.1\HashSet.genruntimeconfig.cache

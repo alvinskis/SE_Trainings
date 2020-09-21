@@ -5,7 +5,15 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrivateConstructor", "PrivateConstructor\PrivateConstructor.csproj", "{38C7F8FA-22A1-4627-96D4-D54A01267DC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "BankAccount\BankAccount.csproj", "{4C58D9C0-4151-467B-AD64-23A3C9FD5707}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccount", "BankAccount\BankAccount.csproj", "{4C58D9C0-4151-467B-AD64-23A3C9FD5707}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedDictionary", "SortedDictionary\SortedDictionary.csproj", "{BF90A416-C5EF-4969-9FCC-56AA78892D7A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedList", "SortedList\SortedList.csproj", "{0FAB52B6-99F4-4C3E-AE87-2454CFFD72F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSet", "HashSet\HashSet.csproj", "{ED84D3BB-C661-4F82-95AA-F14E0D5D8A0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{361BC68B-6D59-462B-BFFC-C16A8300785A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{4C58D9C0-4151-467B-AD64-23A3C9FD5707}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C58D9C0-4151-467B-AD64-23A3C9FD5707}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C58D9C0-4151-467B-AD64-23A3C9FD5707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF90A416-C5EF-4969-9FCC-56AA78892D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF90A416-C5EF-4969-9FCC-56AA78892D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF90A416-C5EF-4969-9FCC-56AA78892D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF90A416-C5EF-4969-9FCC-56AA78892D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FAB52B6-99F4-4C3E-AE87-2454CFFD72F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FAB52B6-99F4-4C3E-AE87-2454CFFD72F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FAB52B6-99F4-4C3E-AE87-2454CFFD72F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FAB52B6-99F4-4C3E-AE87-2454CFFD72F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED84D3BB-C661-4F82-95AA-F14E0D5D8A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED84D3BB-C661-4F82-95AA-F14E0D5D8A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED84D3BB-C661-4F82-95AA-F14E0D5D8A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED84D3BB-C661-4F82-95AA-F14E0D5D8A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{361BC68B-6D59-462B-BFFC-C16A8300785A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361BC68B-6D59-462B-BFFC-C16A8300785A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361BC68B-6D59-462B-BFFC-C16A8300785A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361BC68B-6D59-462B-BFFC-C16A8300785A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

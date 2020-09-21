@@ -1,0 +1,13 @@
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\SortedDictionary\bin\Debug\netcoreapp3.1\SortedDictionary.exe
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\SortedDictionary\bin\Debug\netcoreapp3.1\SortedDictionary.deps.json
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\SortedDictionary\bin\Debug\netcoreapp3.1\SortedDictionary.runtimeconfig.json
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\SortedDictionary\bin\Debug\netcoreapp3.1\SortedDictionary.runtimeconfig.dev.json
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\SortedDictionary\bin\Debug\netcoreapp3.1\SortedDictionary.dll
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\SortedDictionary\bin\Debug\netcoreapp3.1\SortedDictionary.pdb
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.csprojAssemblyReference.cache
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.AssemblyInfoInputs.cache
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.AssemblyInfo.cs
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.dll
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.pdb
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.genruntimeconfig.cache
