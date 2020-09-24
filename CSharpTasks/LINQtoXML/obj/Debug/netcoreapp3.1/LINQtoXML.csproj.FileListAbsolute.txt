@@ -1,0 +1,14 @@
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\LINQtoXML\bin\Debug\netcoreapp3.1\LINQtoXML.exe
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\LINQtoXML\bin\Debug\netcoreapp3.1\LINQtoXML.deps.json
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\LINQtoXML\bin\Debug\netcoreapp3.1\LINQtoXML.runtimeconfig.json
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\LINQtoXML\bin\Debug\netcoreapp3.1\LINQtoXML.runtimeconfig.dev.json
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\LINQtoXML\bin\Debug\netcoreapp3.1\LINQtoXML.dll
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\LINQtoXML\bin\Debug\netcoreapp3.1\LINQtoXML.pdb
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\LINQtoXML\obj\Debug\netcoreapp3.1\LINQtoXML.csprojAssemblyReference.cache
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\LINQtoXML\obj\Debug\netcoreapp3.1\LINQtoXML.AssemblyInfoInputs.cache
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\LINQtoXML\obj\Debug\netcoreapp3.1\LINQtoXML.AssemblyInfo.cs
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\LINQtoXML\obj\Debug\netcoreapp3.1\LINQtoXML.csproj.CoreCompileInputs.cache
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\LINQtoXML\obj\Debug\netcoreapp3.1\LINQtoXML.dll
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\LINQtoXML\obj\Debug\netcoreapp3.1\LINQtoXML.pdb
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\LINQtoXML\obj\Debug\netcoreapp3.1\LINQtoXML.genruntimeconfig.cache
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\LINQtoXML\bin\Debug\netcoreapp3.1\Employees.xml
