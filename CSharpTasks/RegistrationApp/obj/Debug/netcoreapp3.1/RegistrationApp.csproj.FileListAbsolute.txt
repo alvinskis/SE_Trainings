@@ -1,0 +1,14 @@
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\RegistrationApp\bin\Debug\netcoreapp3.1\RegistrationApp.exe
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\RegistrationApp\bin\Debug\netcoreapp3.1\RegistrationApp.deps.json
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\RegistrationApp\bin\Debug\netcoreapp3.1\RegistrationApp.runtimeconfig.json
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\RegistrationApp\bin\Debug\netcoreapp3.1\RegistrationApp.runtimeconfig.dev.json
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\RegistrationApp\bin\Debug\netcoreapp3.1\RegistrationApp.dll
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\RegistrationApp\bin\Debug\netcoreapp3.1\RegistrationApp.pdb
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\RegistrationApp\obj\Debug\netcoreapp3.1\RegistrationApp.AssemblyInfoInputs.cache
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\RegistrationApp\obj\Debug\netcoreapp3.1\RegistrationApp.AssemblyInfo.cs
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\RegistrationApp\obj\Debug\netcoreapp3.1\RegistrationApp.csproj.CoreCompileInputs.cache
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\RegistrationApp\obj\Debug\netcoreapp3.1\RegistrationApp.dll
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\RegistrationApp\obj\Debug\netcoreapp3.1\RegistrationApp.pdb
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\RegistrationApp\obj\Debug\netcoreapp3.1\RegistrationApp.genruntimeconfig.cache
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\RegistrationApp\obj\Debug\netcoreapp3.1\RegistrationApp.csprojAssemblyReference.cache
+C:\Users\modestas.alvinskis\Desktop\SE_Trainings\C#\CSharpTasks\RegistrationApp\bin\Debug\netcoreapp3.1\Credentials.csv
